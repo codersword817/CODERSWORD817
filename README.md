@@ -22,7 +22,7 @@ Web Development**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/maroju-aakash-ba1ab2217/"
+    href="https://www.linkedin.com/in/maroju-aakash-ba1ab2217/"
     target="blank"
     ><img
       align="center"
@@ -32,7 +32,7 @@ Web Development**
       width="40"
   /></a>
   <a
-    href="https://www.codechef.com/users/https://www.codechef.com/users/cbit2_20_5316"
+    href="https://www.codechef.com/users/cbit2_20_5316"
     target="blank"
     ><img
       align="center"
@@ -42,7 +42,7 @@ Web Development**
       width="40"
   /></a>
   <a
-    href="https://www.hackerrank.com/https://www.hackerrank.com/profile/marojuaakash2003"
+    href="https://www.hackerrank.com/profile/marojuaakash2003"
     target="blank"
     ><img
       align="center"
@@ -52,7 +52,7 @@ Web Development**
       width="40"
   /></a>
   <a
-    href="https://www.leetcode.com/https://leetcode.com/aakash817"
+    href="https://leetcode.com/aakash817"
     target="blank"
     ><img
       align="center"
@@ -62,7 +62,7 @@ Web Development**
       width="40"
   /></a>
   <a
-    href="https://auth.geeksforgeeks.org/user/geeksforgeeks.org/user/marojuaakash2003"
+    href="https://geeksforgeeks.org/user/marojuaakash2003"
     target="blank"
     ><img
       align="center"
