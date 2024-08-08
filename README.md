@@ -245,23 +245,23 @@ Web Development**
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashmaroju&show_icons=true&locale=en&layout=compact"
-    alt="aakashmaroju"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=CODERSWORD817&show_icons=true&locale=en&layout=compact"
+    alt="CODERSWORD817"
   />
 </p>
 
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=aakashmaroju&show_icons=true&locale=en"
-    alt="aakashmaroju"
+    src="https://github-readme-stats.vercel.app/api?username=CODERSWORD817&show_icons=true&locale=en"
+    alt="CODERSWORD817"
   />
 </p>
 
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=aakashmaroju&"
-    alt="aakashmaroju"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=CODERSWORD817&"
+    alt="CODERSWORD817"
   />
 </p>
